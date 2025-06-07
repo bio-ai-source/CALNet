@@ -1,7 +1,8 @@
 # CALNet
 ## Paper "CALNet: A Cross-Attention Learning Network Integrating Direct and Centralized Pathways for Drug-Target Interaction Prediction"
 ### 'datasets' directory
-10.5281/zenodo.15615211
+datasets: https://zenodo.org/records/15615211
+
 Contain the benchmark dataset and biological knowledge of drugs and targets
 
 ### 'src' directory
