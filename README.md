@@ -12,6 +12,6 @@ Contain the benchmark dataset and biological knowledge of drugs and targets
 
 ### Requirements
 CALNet is tested to work under Python 3.10.14  
-The required dependencies for UNIFY are PyTorch, numpy, pandas, scipy, and scikit-learn.
+The required dependencies for CALNet are PyTorch, numpy, pandas, scipy, and scikit-learn.
 
 
