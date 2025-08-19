@@ -1,5 +1,5 @@
 # CALNet
-## Paper "CALNet: A Cross-Attention Learning Network Integrating Direct and Centralized Pathways for Drug-Target Interaction Prediction"
+## Paper "CALNet: An Align-then-Integrate Architecture for Navigating the Entanglement-Bottleneck Dilemma in DTI Prediction"
 ### 'datasets' directory
 datasets: https://zenodo.org/records/15615211
 
